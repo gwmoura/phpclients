@@ -10,6 +10,9 @@
             "src/",
             "tests/"
         ],
+        "files": [
+            "src/Helpers/helpers.php"
+        ],
         "psr-0": {
             "App": "src/",
             "Tests": "tests/"
