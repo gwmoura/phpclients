@@ -1,6 +1,6 @@
 {
-    "/dist/app.js": "/dist/app.js?id=5fe3665b7d90bcf00861",
-    "/dist/app.css": "/dist/app.css?id=adc12b97ccd50ba07b05",
-    "/dist/app.min.js": "/dist/app.min.js?id=5fe3665b7d90bcf00861",
-    "/dist/app.min.css": "/dist/app.min.css?id=adc12b97ccd50ba07b05"
+    "/dist/app.js": "/dist/app.js",
+    "/dist/app.css": "/dist/app.css",
+    "/dist/app.min.js": "/dist/app.min.js",
+    "/dist/app.min.css": "/dist/app.min.css"
 }
